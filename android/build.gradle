@@ -1,0 +1,31 @@
+apply plugin: 'com.android.library'
+buildscript {
+    repositories {
+        mavenCentral()
+        google()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.2.0'
+    }
+}
+
+repositories {
+    mavenCentral()
+    google()
+}
+android {
+    compileSdkVersion 31
+
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 31
+        versionCode 1
+        versionName "1.0"
+    }
+}
+
+dependencies {
+    implementation 'com.facebook.react:react-native:+'
+    //implementation fileTree(dir: 'libs', include: '**/*.aar')
+    implementation 'com.razorpay:customui:3.9.+'
+}

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.razorpay:customui:3.9.11@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/de6071220965e2cd772dad40f967272d/transformed/customui-3.9.11/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/de6071220965e2cd772dad40f967272d/transformed/customui-3.9.11/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/de6071220965e2cd772dad40f967272d/transformed/customui-3.9.11/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.razorpay/customui/3.9.11/772641c8514e72dd0ca07f44f96e5eabc92911e4/customui-3.9.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.razorpay/customui/3.9.11/113e9b8bb5cafddcad3a08914d6c41925a670c9a/customui-3.9.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
